@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Shashank\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.4.0\support-annotations-23.4.0.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="C:\Users\Shashank\Desktop\Developement\BluetoothRemoteCamera-master\Application\build\intermediates\pre-dexed\debug\support-annotations-23.4.0_9e482105a9eba3ea514b79a3f7d05f69de3f6e61.jar" />
+    </item>
+    <item
+        jar="C:\Users\Shashank\Desktop\Developement\BluetoothRemoteCamera-master\Application\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="ea5af2639d5962ad34719b758e6ca64a67d34e09">
+        <dex dex="C:\Users\Shashank\Desktop\Developement\BluetoothRemoteCamera-master\Application\build\intermediates\pre-dexed\debug\instant-run-bootstrap_2c2183a05d32e2ca88eab82eda496e146bf114a6.jar" />
+    </item>
+    <item
+        jar="C:\Users\Shashank\Desktop\Developement\BluetoothRemoteCamera-master\Application\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="C:\Users\Shashank\Desktop\Developement\BluetoothRemoteCamera-master\Application\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.4.0_6dbb6c2c89e7c51c302b54a5b22ce5736574ffb5.jar" />
+    </item>
+    <item
+        jar="C:\Users\Shashank\Desktop\Developement\BluetoothRemoteCamera-master\Application\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\libs\internal_impl-23.4.0.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="C:\Users\Shashank\Desktop\Developement\BluetoothRemoteCamera-master\Application\build\intermediates\pre-dexed\debug\internal_impl-23.4.0_9009ff88d0b1cb288301c2c576b23842a4f07a20.jar" />
+    </item>
+    <item
+        jar="C:\Users\Shashank\Desktop\Developement\BluetoothRemoteCamera-master\Application\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="2ba958de69a2ac539ba8842dfa9fc4f96064eb82">
+        <dex dex="C:\Users\Shashank\Desktop\Developement\BluetoothRemoteCamera-master\Application\build\intermediates\pre-dexed\debug\instant-run_251d2b60b3191afe5065e2490ae2a342b12151cd.jar" />
+    </item>
+    <item
+        jar="C:\Users\Shashank\Desktop\Developement\BluetoothRemoteCamera-master\Application\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.1\jars\classes.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
+        <dex dex="C:\Users\Shashank\Desktop\Developement\BluetoothRemoteCamera-master\Application\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.1.1_3b48071bc566513f9c9b892f0532eef19297e5bf.jar" />
+    </item>
+
+</items>

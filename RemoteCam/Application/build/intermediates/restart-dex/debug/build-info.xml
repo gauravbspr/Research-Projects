@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="armeabi-v7a,armeabi"
+    api-level="18"
+    density="xhdpi"
+    format="7"
+    timestamp="1517023281306582" >
+
+    <task
+        name="javac"
+        duration="550" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="491" />
+    <task
+        name="verifier"
+        duration="301" />
+
+    <artifact
+        location="C:\Users\Shashank\Desktop\Developement\BluetoothRemoteCamera-master\Application\build\outputs\apk\Application-debug.apk"
+        type="MAIN" />
+
+    <build timestamp="1517023281306582" >
+        <artifact
+            location="C:\Users\Shashank\Desktop\Developement\BluetoothRemoteCamera-master\Application\build\outputs\apk\Application-debug.apk"
+            type="MAIN" />
+    </build>
+
+</instant-run>
