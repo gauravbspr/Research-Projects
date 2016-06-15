@@ -3,7 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Application/Application.iml" filepath="$PROJECT_DIR$/Application/Application.iml" />
-      <module fileurl="file://$PROJECT_DIR$/BluetoothRemoteCamera-master.iml" filepath="$PROJECT_DIR$/BluetoothRemoteCamera-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RemoteCam.iml" filepath="$PROJECT_DIR$/RemoteCam.iml" />
     </modules>
   </component>
 </project>

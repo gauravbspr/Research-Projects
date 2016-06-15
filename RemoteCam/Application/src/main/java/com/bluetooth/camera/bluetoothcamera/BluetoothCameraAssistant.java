@@ -19,7 +19,7 @@ import java.io.OutputStream;
 import java.util.UUID;
 
 
-public class BluetoothCameraAssistant implements ActionInterface {
+public class BluetoothCameraAssistant {
     
     private static final String TAG = "rolf";
     int len = 0;
@@ -226,12 +226,6 @@ public class BluetoothCameraAssistant implements ActionInterface {
         BluetoothCameraAssistant.this.start();
     }
 
-    @Override
-    public void onStartAction() {
-
-    }
-
-
     private class AcceptThread extends Thread {
         
         private final BluetoothServerSocket mmServerSocket;
@@ -433,9 +427,10 @@ public class BluetoothCameraAssistant implements ActionInterface {
         
         public void write(byte[] buffer) {
             try {
-                len = buffer.length;
-                mmOutStream.write(buffer);
-                
+                if(System.currentTimeMillis()/100==0) {   //to restrict the frames transmitted over bluetooth
+                    len = buffer.length;
+                    mmOutStream.write(buffer);
+                }
             } catch (IOException e) {
                 Log.e(TAG, "Exception during write", e);
             }

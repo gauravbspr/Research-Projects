@@ -1,5 +1,9 @@
 [
     {
+        "merged": "E:\\GitRepository\\Research-Projects\\RemoteCam\\Application\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\ic_launcher.png",
+        "source": "E:\\GitRepository\\Research-Projects\\RemoteCam\\Application\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
         "merged": "C:\\Users\\Shashank\\Desktop\\Developement\\BluetoothRemoteCamera-master\\Application\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\ic_launcher.png",
         "source": "C:\\Users\\Shashank\\Desktop\\Developement\\BluetoothRemoteCamera-master\\Application\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
     }

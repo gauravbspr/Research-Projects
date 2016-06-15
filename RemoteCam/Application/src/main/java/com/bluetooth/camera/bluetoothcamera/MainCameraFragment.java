@@ -166,7 +166,7 @@ public class MainCameraFragment extends Fragment implements SurfaceHolder.Callba
         mSendButton.setOnClickListener(new Button.OnClickListener() {
             public void onClick(View arg0) {
                 //sendMessage("start-camera".getBytes());
-                //new ActionInterface().onStartAction();
+
                 start_camera();
             }
         });
