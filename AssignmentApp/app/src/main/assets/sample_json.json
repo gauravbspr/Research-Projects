@@ -1,0 +1,15 @@
+[
+ {"field-name":"Name", "type":"text", "required":true},
+ {"field-name":"Age", "type":"number", "min":18, "max":65},
+ {"field-name":"Gender", "type":"dropdown", "required":true, "options":["male", "female", "other"]},
+ {"field-name":"Address", "type":"composite", "fields":[
+	{"field-name":"Line 1","type":"text","required":true},
+	{"field-name":"Line 2","type":"text"},
+	{"field-name":"Country","type":"text","required":true},
+	{"field-name":"State","type":"dropdown","required":true, "options":["Maharshtra", "Madhya Pradesh", "Karnataka"]},
+   {"field-name":"Address2", "type":"composite", "fields":[
+     {"field-name":"Line 1","type":"text","required":true},
+     {"field-name":"Line 2","type":"text"},
+     {"field-name":"Country","type":"text","required":true},
+     {"field-name":"State","type":"dropdown","required":true, "options":["Maharshtra", "Madhya Pradesh", "Karnataka"]}]}]}
+]
